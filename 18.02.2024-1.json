@@ -1,0 +1,25 @@
+{
+    "name": "James Gomez",
+    "age": 54,
+    "address": {
+        "street": "Fields Burgs",
+        "city": "Robertsonfurt",
+        "state": "New Jersey",
+        "zip": "63213"
+    },
+    "contact": {
+        "phone": "(235)386-9169",
+        "servicePhone": "800782277"
+    },
+    "birthday": "1971-17-11",
+    "ip": "130.180.32.30",
+    "foo": "bar",
+    "profile": {
+        "about": "Itself design long sing. Act my simply hard. Best though thought child vote result.\nWish billion enough make former itself. End third though three tax past. Hot upon minute blue his another term now.",
+        "bio": "Design government off analysis under guess. Letter high physical close forward film power. Itself lot cost across administration know. Threat eight rise professional how fill."
+    },
+    "currency": [
+        "TOP",
+        "Tongan paʻanga"
+    ]
+}
