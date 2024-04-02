@@ -1,0 +1,25 @@
+{
+    "name": "Janet Wheeler",
+    "age": 15,
+    "address": {
+        "street": "Harrell Fall",
+        "city": "Michelletown",
+        "state": "Mississippi",
+        "zip": "36104"
+    },
+    "contact": {
+        "phone": "+1-275-450-3685x7771",
+        "servicePhone": "800999241"
+    },
+    "birthday": "2010-01-11",
+    "ip": "178.164.60.79",
+    "foo": "bar",
+    "profile": {
+        "about": "Have study note all interest message expect. Black morning discover arm. City cover statement north.\nRange whatever entire suggest kind. Total reason spend leg east often stock.",
+        "bio": "World figure act machine successful. Also share them soldier national. Fear himself among those his another. Say pattern late above explain.\nHope able throw brother I."
+    },
+    "currency": [
+        "ALL",
+        "Albanian lek"
+    ]
+}
