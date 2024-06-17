@@ -1,0 +1,25 @@
+{
+    "name": "Charles Kent",
+    "age": 59,
+    "address": {
+        "street": "Randy Inlet",
+        "city": "West Dawn",
+        "state": "Ohio",
+        "zip": "82671"
+    },
+    "contact": {
+        "phone": "001-955-232-3871",
+        "servicePhone": "800230268"
+    },
+    "birthday": "1966-24-05",
+    "ip": "205.67.40.238",
+    "foo": "bar",
+    "profile": {
+        "about": "Our risk must middle buy. Military voice maybe. Soldier win left great often require word book.\nHouse turn together choice star eat carry. Language view single arrive.",
+        "bio": "Movie price item policy everybody mission. Teacher nation during worker. Forward set follow condition. Officer care act half dinner blue issue."
+    },
+    "currency": [
+        "SPL",
+        "Seborga luigino"
+    ]
+}
