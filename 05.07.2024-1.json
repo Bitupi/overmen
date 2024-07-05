@@ -1,0 +1,25 @@
+{
+    "name": "Jeremy Davis",
+    "age": 8,
+    "address": {
+        "street": "Burke Courts",
+        "city": "Port Misty",
+        "state": "Texas",
+        "zip": "70521"
+    },
+    "contact": {
+        "phone": "514-646-2492x864",
+        "servicePhone": "800226755"
+    },
+    "birthday": "2017-19-07",
+    "ip": "145.77.68.208",
+    "foo": "bar",
+    "profile": {
+        "about": "Boy name future old reduce task. Wear still over. Sea place anything bank.",
+        "bio": "Message design matter. Discussion about none thought. Experience happy office get."
+    },
+    "currency": [
+        "SYP",
+        "Syrian pound"
+    ]
+}
