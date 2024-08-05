@@ -1,0 +1,25 @@
+{
+    "name": "Benjamin Frank",
+    "age": 28,
+    "address": {
+        "street": "Adams Centers",
+        "city": "Lake Cynthiaberg",
+        "state": "Louisiana",
+        "zip": "64456"
+    },
+    "contact": {
+        "phone": "+1-539-694-1867x77104",
+        "servicePhone": "800748098"
+    },
+    "birthday": "1997-01-04",
+    "ip": "132.153.239.247",
+    "foo": "bar",
+    "profile": {
+        "about": "Meeting vote animal north seat. Sea toward police series law among.\nLoss certain senior car woman begin fill. Where pay social how program news. Stop onto share wear.",
+        "bio": "Look team fish stop rather. Fight career research star large administration nothing Mrs.\nFormer myself alone manage operation none. According bed scene international."
+    },
+    "currency": [
+        "SCR",
+        "Seychellois rupee"
+    ]
+}
