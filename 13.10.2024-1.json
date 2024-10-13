@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Jones",
+    "age": 100,
+    "address": {
+        "street": "Kirby Coves",
+        "city": "North Jillfurt",
+        "state": "North Carolina",
+        "zip": "49205"
+    },
+    "contact": {
+        "phone": "976-882-5622",
+        "servicePhone": "800547786"
+    },
+    "birthday": "1925-06-06",
+    "ip": "146.5.137.40",
+    "foo": "bar",
+    "profile": {
+        "about": "Major door blue go management big. Subject rock spring later continue small quite.\nSoldier foot price leave. Paper condition whom involve. Audience black store game under trade.",
+        "bio": "Stock box usually. Election board manage suddenly point entire. Difference both still enough avoid chair.\nParent despite north dinner. Another significant adult century arm."
+    },
+    "currency": [
+        "MOP",
+        "Macanese pataca"
+    ]
+}
