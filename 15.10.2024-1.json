@@ -1,0 +1,25 @@
+{
+    "name": "Danielle Lynch",
+    "age": 48,
+    "address": {
+        "street": "Eric Street",
+        "city": "Port Rebecca",
+        "state": "Rhode Island",
+        "zip": "34530"
+    },
+    "contact": {
+        "phone": "(392)543-0192",
+        "servicePhone": "800209155"
+    },
+    "birthday": "1977-21-01",
+    "ip": "130.136.222.163",
+    "foo": "bar",
+    "profile": {
+        "about": "Another most truth few gas build travel. Government seat green artist purpose.",
+        "bio": "Film partner career easy. Budget arm personal ground town source mind. American force view realize pay decade."
+    },
+    "currency": [
+        "JOD",
+        "Jordanian dinar"
+    ]
+}
