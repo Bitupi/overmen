@@ -1,0 +1,25 @@
+{
+    "name": "Jacqueline Davis",
+    "age": 102,
+    "address": {
+        "street": "John Mountain",
+        "city": "New Bryan",
+        "state": "West Virginia",
+        "zip": "55268"
+    },
+    "contact": {
+        "phone": "001-502-988-5897x82008",
+        "servicePhone": "800294715"
+    },
+    "birthday": "1923-31-01",
+    "ip": "102.80.246.227",
+    "foo": "bar",
+    "profile": {
+        "about": "Ready product half life. Away world local fly day practice operation agent. Event through wonder piece blue state billion.",
+        "bio": "Our break east answer majority fact look. Knowledge industry system yeah scene answer agent."
+    },
+    "currency": [
+        "UAH",
+        "Ukrainian hryvnia"
+    ]
+}
