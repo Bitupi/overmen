@@ -1,0 +1,25 @@
+{
+    "name": "Lindsey Andrade",
+    "age": 2,
+    "address": {
+        "street": "Johnson Inlet",
+        "city": "North Mark",
+        "state": "Virginia",
+        "zip": "73437"
+    },
+    "contact": {
+        "phone": "(425)324-3014x32945",
+        "servicePhone": "800776005"
+    },
+    "birthday": "2023-18-01",
+    "ip": "18.199.79.4",
+    "foo": "bar",
+    "profile": {
+        "about": "Trip might none shake rest drug town action. To reality instead bank tax admit.\nInterview day you generation over suffer item board. New generation lay listen call decision.",
+        "bio": "Wife relationship important head car finally mission act. Likely capital on half myself. Huge couple sit develop fly.\nBad understand yard fast there. Employee doctor west later."
+    },
+    "currency": [
+        "ZAR",
+        "South African rand"
+    ]
+}
