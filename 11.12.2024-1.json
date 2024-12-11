@@ -1,0 +1,25 @@
+{
+    "name": "Linda Gilbert",
+    "age": 42,
+    "address": {
+        "street": "Seth Highway",
+        "city": "Bishopfurt",
+        "state": "Oklahoma",
+        "zip": "79770"
+    },
+    "contact": {
+        "phone": "8646690247",
+        "servicePhone": "800549387"
+    },
+    "birthday": "1983-02-06",
+    "ip": "29.199.132.120",
+    "foo": "bar",
+    "profile": {
+        "about": "Space law draw relate rock common.\nFeeling fish range prove record hour. Kind list thank bad sit management. Write able teacher. Charge its after knowledge alone.",
+        "bio": "Enjoy indeed these office foreign operation. View increase listen."
+    },
+    "currency": [
+        "LSL",
+        "Lesotho loti"
+    ]
+}
