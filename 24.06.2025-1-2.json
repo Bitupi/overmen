@@ -1,0 +1,25 @@
+{
+    "name": "Olivia Davidson",
+    "age": 97,
+    "address": {
+        "street": "Espinoza Squares",
+        "city": "New Kristin",
+        "state": "Ohio",
+        "zip": "89162"
+    },
+    "contact": {
+        "phone": "+1-732-359-1310x216",
+        "servicePhone": "800714443"
+    },
+    "birthday": "1928-29-06",
+    "ip": "120.240.177.37",
+    "foo": "bar",
+    "profile": {
+        "about": "Save under drive industry. Field word such exactly.\nSmall commercial standard institution. Religious notice plant none. Spend fight drop report second have. Water religious very fight boy risk.",
+        "bio": "Listen rule fact. International have mission them. Body contain fund.\nStop be skin. Pay week show movement left spring. Indeed officer office care huge system. Body employee try fish."
+    },
+    "currency": [
+        "LBP",
+        "Lebanese pound"
+    ]
+}
