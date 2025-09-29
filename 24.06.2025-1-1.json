@@ -1,0 +1,25 @@
+{
+    "name": "Gloria Lucero",
+    "age": 94,
+    "address": {
+        "street": "Park Pine",
+        "city": "Port Michaelchester",
+        "state": "Minnesota",
+        "zip": "11860"
+    },
+    "contact": {
+        "phone": "(862)509-3914x6400",
+        "servicePhone": "800711117"
+    },
+    "birthday": "1931-22-12",
+    "ip": "53.248.210.43",
+    "foo": "bar",
+    "profile": {
+        "about": "Behind mother nothing dark tough second. Always always worry carry most seem.\nFly law many care entire deal. Account line along account close.",
+        "bio": "Yourself child major along forward suffer tell. Mrs bar million likely offer small statement first.\nCivil oil line enter at them. View social detail star year."
+    },
+    "currency": [
+        "ZMW",
+        "Zambian kwacha"
+    ]
+}

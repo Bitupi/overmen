@@ -1,0 +1,25 @@
+{
+    "name": "Amy Hansen",
+    "age": 111,
+    "address": {
+        "street": "Weaver Manor",
+        "city": "Port Randall",
+        "state": "Michigan",
+        "zip": "10283"
+    },
+    "contact": {
+        "phone": "001-512-339-9889",
+        "servicePhone": "800798895"
+    },
+    "birthday": "1914-06-02",
+    "ip": "207.9.97.184",
+    "foo": "bar",
+    "profile": {
+        "about": "Involve in point treatment. Old you standard order. Sometimes suddenly miss sign tonight either.\nWife receive apply opportunity. Responsibility situation from early international station.",
+        "bio": "All can last. Amount once serious Mr.\nAmount light interest believe. Reality ok major force alone interview movie. Story pull he hotel professional ten need."
+    },
+    "currency": [
+        "TOP",
+        "Tongan paʻanga"
+    ]
+}
