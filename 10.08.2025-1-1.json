@@ -1,0 +1,25 @@
+{
+    "name": "Stefanie Owens",
+    "age": 5,
+    "address": {
+        "street": "Meza Pine",
+        "city": "Elizabethton",
+        "state": "Wyoming",
+        "zip": "08729"
+    },
+    "contact": {
+        "phone": "(712)654-7945",
+        "servicePhone": "800187924"
+    },
+    "birthday": "2020-31-05",
+    "ip": "84.60.23.230",
+    "foo": "bar",
+    "profile": {
+        "about": "Indeed card receive into available.",
+        "bio": "Onto others either manager. Worker item drug case yeah pretty. Bag for top outside. Economy interesting partner event.\nSome remember also cell nearly benefit. Painting argue whether easy beat member."
+    },
+    "currency": [
+        "DOP",
+        "Dominican peso"
+    ]
+}

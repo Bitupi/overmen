@@ -1,0 +1,25 @@
+{
+    "name": "Nancy Harding",
+    "age": 103,
+    "address": {
+        "street": "Hernandez Creek",
+        "city": "Port Tracy",
+        "state": "Iowa",
+        "zip": "81259"
+    },
+    "contact": {
+        "phone": "8963140700",
+        "servicePhone": "800616187"
+    },
+    "birthday": "1922-25-07",
+    "ip": "136.221.246.114",
+    "foo": "bar",
+    "profile": {
+        "about": "Above care note weight by sometimes. Player explain whose similar piece. Central place both hair skill however. Happy door successful start.\nTotal notice rate might only.",
+        "bio": "Feeling sort like it plan under whether never. Any turn mother Mr rule.\nStrategy pass inside high note speak them. Heavy certain I training relate four describe."
+    },
+    "currency": [
+        "CRC",
+        "Costa Rican colón"
+    ]
+}
