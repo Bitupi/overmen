@@ -1,0 +1,25 @@
+{
+    "name": "Brooke Hernandez",
+    "age": 48,
+    "address": {
+        "street": "Tonya Valley",
+        "city": "Rileytown",
+        "state": "West Virginia",
+        "zip": "33478"
+    },
+    "contact": {
+        "phone": "(725)596-8410x690",
+        "servicePhone": "800602568"
+    },
+    "birthday": "1977-09-10",
+    "ip": "167.54.111.185",
+    "foo": "bar",
+    "profile": {
+        "about": "Bag bar push nature never half visit. Education Congress there line popular. Hope few again significant. Upon act old eat top short.\nKid rate former worry exactly carry he.",
+        "bio": "Almost indeed set thought mission. High interesting hear ball. Bring dream manager peace available effort TV.\nProvide low democratic himself religious remain still. Fall improve start so."
+    },
+    "currency": [
+        "KGS",
+        "Kyrgyzstani som"
+    ]
+}

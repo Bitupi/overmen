@@ -1,0 +1,25 @@
+{
+    "name": "Laura Price",
+    "age": 80,
+    "address": {
+        "street": "Wallace Turnpike",
+        "city": "West Sherry",
+        "state": "Washington",
+        "zip": "22878"
+    },
+    "contact": {
+        "phone": "(343)278-9660",
+        "servicePhone": "800962393"
+    },
+    "birthday": "1945-28-08",
+    "ip": "204.205.17.20",
+    "foo": "bar",
+    "profile": {
+        "about": "Reality around eat food. Economy structure move out industry condition.\nElse happen head go must. Audience college really Democrat population.",
+        "bio": "Shoulder make deal learn. Recent produce soldier mind federal.\nSeek meeting to Mrs practice water seven. She which our dream improve dinner. Data spend third red everything skill."
+    },
+    "currency": [
+        "YER",
+        "Yemeni rial"
+    ]
+}
