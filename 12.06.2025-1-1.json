@@ -1,0 +1,25 @@
+{
+    "name": "Meghan Wilson",
+    "age": 71,
+    "address": {
+        "street": "Kelley Manor",
+        "city": "Millerport",
+        "state": "Kansas",
+        "zip": "76149"
+    },
+    "contact": {
+        "phone": "956-709-3050x769",
+        "servicePhone": "800155264"
+    },
+    "birthday": "1954-29-12",
+    "ip": "28.179.251.30",
+    "foo": "bar",
+    "profile": {
+        "about": "Especially natural beyond respond international yard power. Series yourself compare item order difficult.",
+        "bio": "Offer very perhaps something who in occur beyond.\nSeem also participant cultural standard. Heart watch person pay mission court economy."
+    },
+    "currency": [
+        "HRK",
+        "Croatian kuna"
+    ]
+}
