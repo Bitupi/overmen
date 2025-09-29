@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Alvarez",
+    "age": 0,
+    "address": {
+        "street": "Hensley Avenue",
+        "city": "South Brent",
+        "state": "Ohio",
+        "zip": "69244"
+    },
+    "contact": {
+        "phone": "884-665-6288x61115",
+        "servicePhone": "800069629"
+    },
+    "birthday": "2025-02-05",
+    "ip": "173.200.154.28",
+    "foo": "bar",
+    "profile": {
+        "about": "Democrat fish or challenge north building. Ago over teacher bring capital. Human step finally turn public.\nBehind majority continue. Nice also medical value. Sort north take final whose gun.",
+        "bio": "Prove street bill process order husband. Know score resource seek assume must. Parent determine science return care.\nCar use wrong everyone audience. Son begin bad stop."
+    },
+    "currency": [
+        "XAF",
+        "Central African CFA franc"
+    ]
+}

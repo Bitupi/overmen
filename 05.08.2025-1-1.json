@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Brown",
+    "age": 54,
+    "address": {
+        "street": "Lopez Ports",
+        "city": "Paulbury",
+        "state": "Kansas",
+        "zip": "48862"
+    },
+    "contact": {
+        "phone": "469-661-1078x281",
+        "servicePhone": "800916221"
+    },
+    "birthday": "1971-01-11",
+    "ip": "176.0.231.220",
+    "foo": "bar",
+    "profile": {
+        "about": "Growth apply heavy weight between. Lot manage young new citizen.\nSet memory set ok question strategy. Room arm whatever trip remain change.",
+        "bio": "Cost perform site newspaper figure reveal air. Take you eye necessary. Party not painting wall whether analysis."
+    },
+    "currency": [
+        "LSL",
+        "Lesotho loti"
+    ]
+}

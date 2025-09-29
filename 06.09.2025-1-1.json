@@ -1,0 +1,25 @@
+{
+    "name": "Clarence Oneal",
+    "age": 72,
+    "address": {
+        "street": "Turner Square",
+        "city": "Kellyshire",
+        "state": "Nevada",
+        "zip": "54292"
+    },
+    "contact": {
+        "phone": "243.585.2914x9640",
+        "servicePhone": "800825887"
+    },
+    "birthday": "1953-16-01",
+    "ip": "34.83.24.131",
+    "foo": "bar",
+    "profile": {
+        "about": "Baby tonight hundred public wind. Catch turn young subject wonder sister can. Answer dream produce something officer.\nGet item all choose better better interview.",
+        "bio": "Pick several executive scene everybody have. One break consumer computer in area. Type man American."
+    },
+    "currency": [
+        "USD",
+        "United States dollar"
+    ]
+}
