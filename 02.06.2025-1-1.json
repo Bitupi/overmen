@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Morgan",
+    "age": 43,
+    "address": {
+        "street": "Jones Canyon",
+        "city": "East Gerald",
+        "state": "Missouri",
+        "zip": "01890"
+    },
+    "contact": {
+        "phone": "781-254-9189x054",
+        "servicePhone": "800082011"
+    },
+    "birthday": "1982-26-02",
+    "ip": "102.111.55.199",
+    "foo": "bar",
+    "profile": {
+        "about": "Pay describe body happen nearly employee relationship. Today action shake treatment. Responsibility worry former term.\nProcess executive who idea. Often weight process side.",
+        "bio": "Happy idea arm however treat person. Return recent son add recognize technology several."
+    },
+    "currency": [
+        "CZK",
+        "Czech koruna"
+    ]
+}
