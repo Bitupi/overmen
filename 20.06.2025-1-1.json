@@ -1,0 +1,25 @@
+{
+    "name": "Shannon Church",
+    "age": 35,
+    "address": {
+        "street": "Robertson Stravenue",
+        "city": "New Jacquelineport",
+        "state": "North Dakota",
+        "zip": "93470"
+    },
+    "contact": {
+        "phone": "+1-394-963-9484x030",
+        "servicePhone": "800418083"
+    },
+    "birthday": "1990-12-04",
+    "ip": "58.36.163.14",
+    "foo": "bar",
+    "profile": {
+        "about": "Perhaps buy send occur. Store push space how. Tv identify they house project it suddenly.",
+        "bio": "Necessary peace concern know price size. Blood knowledge position middle. Performance computer only."
+    },
+    "currency": [
+        "MNT",
+        "Mongolian tugrik"
+    ]
+}
